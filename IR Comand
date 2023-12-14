@@ -1,0 +1,76 @@
+Power - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98676A95","DataLSB":"0x19E656A9","Repeat":0}}
+Eject - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986718E7","DataLSB":"0x19E618E7","Repeat":0}}
+FF left - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867926D","DataLSB":"0x19E649B6","Repeat":0}}
+Play/Pause - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986752AD","DataLSB":"0x19E64AB5","Repeat":0}}
+FF right - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867D22D","DataLSB":"0x19E64BB4","Repeat":0}}
+Mute - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867EA15","DataLSB":"0x19E657A8","Repeat":0}}
+Rewind button back - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867D827","DataLSB":"0x19E61BE4","Repeat":0}}
+Stop - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986758A7","DataLSB":"0x19E61AE5","Repeat":0}}
+Rewind button forward - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98679867","DataLSB":"0x19E619E6","Repeat":0}}
+Eye - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986700FF","DataLSB":"0x19E600FF","Repeat":0}}
+
+1 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867AA55","DataLSB":"0x19E655AA","Repeat":0}}
+2 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98672AD5","DataLSB":"0x19E654AB","Repeat":0}}
+3 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867E817","DataLSB":"0x19E617E8","Repeat":0}}
+4 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867DA25","DataLSB":"0x19E65BA4","Repeat":0}}
+5 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867CA35","DataLSB":"0x19E653AC","Repeat":0}}
+6 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867A857","DataLSB":"0x19E615EA","Repeat":0}}
+7 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98676897","DataLSB":"0x19E616E9","Repeat":0}}
+8 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98675AA5","DataLSB":"0x19E65AA5","Repeat":0}}
+9 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98674AB5","DataLSB":"0x19E652AD","Repeat":0}}
+-/-- MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98670AF5","DataLSB":"0x19E650AF","Repeat":0}}
+0 - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98678A75","DataLSB":"0x19E651AE","Repeat":0}}
+Re circle - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98679A65","DataLSB":"0x19E659A6","Repeat":0}}
+
+Source - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98671AE5","DataLSB":"0x19E658A7","Repeat":0}}
+Guide - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867D02F","DataLSB":"0x19E60BF4","Repeat":0}}
+
+UP - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867C837","DataLSB":"0x19E613EC","Repeat":0}}
+Left - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867B24D","DataLSB":"0x19E64DB2","Repeat":0}}
+OK - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x98678877","DataLSB":"0x19E611EE","Repeat":0}}
+Right - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986708F7","DataLSB":"0x19E610EF","Repeat":0}}
+Down - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867728D","DataLSB":"0x19E64EB1","Repeat":0}}
+
+Setup TV - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986712ED","DataLSB":"0x19E648B7","Repeat":0}}
+Setup DVD - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986750AF","DataLSB":"0x19E60AF5","Repeat":0}}
+
+Vol + - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867F20D","DataLSB":"0x19E64FB0","Repeat":0}}
+Vol - - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867B04F","DataLSB":"0x19E60DF2","Repeat":0}}
+CH + - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986732CD","DataLSB":"0x19E64CB3","Repeat":0}}
+CH - - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867F00F","DataLSB":"0x19E60FF0","Repeat":0}}
+
+Exit - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986748B7","DataLSB":"0x19E612ED","Repeat":0}}
+Tune (AQT)- MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986710EF","DataLSB":"0x19E608F7","Repeat":0}}
+REC - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986710EF","DataLSB":"0x19E608F7","Repeat":0}}
+Timeshift - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986740BF","DataLSB":"0x19E602FD","Repeat":0}}
+List - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867807F","DataLSB":"0x19E601FE","Repeat":0}}
+Text (menu) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867A25D","DataLSB":"0x19E645BA","Repeat":0}}
+Mix (subt) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867629D","DataLSB":"0x19E646B9","Repeat":0}}
+Hold (info) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867E21D","DataLSB":"0x19E647B8","Repeat":0}}
+index (page +) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867906F","DataLSB":"0x19E609F6","Repeat":0}}
+Cancel (audio) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986722DD","DataLSB":"0x19E644BB","Repeat":0}}
+Sise  (tv/note) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867E01F","DataLSB":"0x19E607F8","Repeat":0}}
+Reveal (FAV) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867609F","DataLSB":"0x19E606F9","Repeat":0}}
+Subpage (page -) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867A05F","DataLSB":"0x19E605FA","Repeat":0}}
+browse (red) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867A05F","DataLSB":"0x19E605FA","Repeat":0}}
+A-B (green) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867827D","DataLSB":"0x19E641BE","Repeat":0}}
+Repeat (yellow) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x986742BD","DataLSB":"0x19E642BD","Repeat":0}}
+Zoom (blue) - MQT: tele/ir-remote/RESULT = {"IrReceived":{"Protocol":"NEC","Bits":32,"Data":"0x9867C23D","DataLSB":"0x19E643BC","Repeat":0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
